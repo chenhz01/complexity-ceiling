@@ -1,0 +1,5 @@
+code-quality
+static-analysis
+ci
+maintainability
+python
