@@ -1,5 +1,5 @@
 name: complexity-ceiling
-description: Per-file complexity budgets that fail the build instead of the reviewer.
+description: Code complexity budget gate: per-file complexity ceilings that fail the build, not the reviewer.
 branding:
   icon: shield
   color: blue
