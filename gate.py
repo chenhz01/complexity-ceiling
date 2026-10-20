@@ -1,4 +1,6 @@
 #!/usr/bin/env python3
+# SPDX-License-Identifier: Apache-2.0
+# SPDX-FileCopyrightText: 2026 chenhz01 — see LICENSE, LICENSE-SPEC and NOTICE
 """complexity-ceiling: per-file cyclomatic complexity budgets + over-budget report + CI exit codes.
 
 Budget file (JSON):
